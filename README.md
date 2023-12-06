@@ -9,4 +9,4 @@ Model achieved 94% accuracy after just 7 epochs.
 Bert base from Hugging Face was used fine tunned to predict the sentiment on twitter dataset.
 ## Dataset: Twitter Dataset
 ## Results
-Model achieved 97% accuracy after just 1 epochs.
+Model achieved 97% accuracy after just 1 epoch.
